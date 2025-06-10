@@ -8,7 +8,9 @@ A search engine built in C++ that supports keyword-based queries with efficient 
 - Text-Based UI: Simple command-line interface for interaction.
 
 # Console Output
-![Screenshot 2025-06-10 022522](https://github.com/user-attachments/assets/f9f3d5cf-4c5d-468b-9acb-e2c092584f27)
+![SE-2](https://github.com/user-attachments/assets/a5813d03-b6f2-46dc-ae5b-c28ef28ddbac)
+![SE-1](https://github.com/user-attachments/assets/23fa0dd7-6597-4d27-875b-d0ff10529b0c)
+
 
 # How to Use
 - Clone the repository:
